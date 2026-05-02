@@ -28,8 +28,8 @@ To evaluate the model, I used the synthetic “silver-label” dataset described
 ## Repository Structure
 
 - `notebooks/`: contains the Jupyter notebooks for data preprocessing, fine-tuning, and evaluation
-- `zip/`: contains large files (datasets and model checkpoints) that need to be unzipped before use
-- `documents/` : contains project documentation and reports
+- `zip/`: contains large files (datasets and model checkpoints) that need to be unzipped before use. These are not included in the repo due to size, but may be downloaded from [Google Drive here](https://drive.google.com/drive/folders/1PoiarVDBgWFKhPITKRSo7pkck_b_XMWK?usp=sharing)
+- `documents/`: contains project documentation and reports
 
 ## Setup and Requirements
 
