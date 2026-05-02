@@ -49,7 +49,7 @@ scikit-learn
 
 ### Downloading Model Checkpoints and Data
 
-The fine-tuned adapter and processed datasets are stored in `zip/` and are not included in this repository due to file size. Please download and unzip the contents prior to running these notebooks.
+The fine-tuned adapter and processed datasets are stored in `zip/` and are not included in this repository due to file size. Please download and unzip the contents prior to running these notebooks from [this folder](https://drive.google.com/drive/folders/1PoiarVDBgWFKhPITKRSo7pkck_b_XMWK?usp=sharing).
 
 Alternatively, all data can be reproduced from scratch by running the notebooks in order described below.
 
